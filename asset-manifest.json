@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/learn-reactjs/static/css/main.d861829d.chunk.css",
-    "main.js": "/learn-reactjs/static/js/main.2e364d28.chunk.js",
-    "main.js.map": "/learn-reactjs/static/js/main.2e364d28.chunk.js.map",
-    "runtime-main.js": "/learn-reactjs/static/js/runtime-main.1d85b03b.js",
-    "runtime-main.js.map": "/learn-reactjs/static/js/runtime-main.1d85b03b.js.map",
-    "static/js/2.0089eaa3.chunk.js": "/learn-reactjs/static/js/2.0089eaa3.chunk.js",
-    "static/js/2.0089eaa3.chunk.js.map": "/learn-reactjs/static/js/2.0089eaa3.chunk.js.map",
-    "index.html": "/learn-reactjs/index.html",
-    "precache-manifest.6552f00a7bad96e5bd6db652b61cdc35.js": "/learn-reactjs/precache-manifest.6552f00a7bad96e5bd6db652b61cdc35.js",
-    "service-worker.js": "/learn-reactjs/service-worker.js",
-    "static/css/main.d861829d.chunk.css.map": "/learn-reactjs/static/css/main.d861829d.chunk.css.map",
-    "static/js/2.0089eaa3.chunk.js.LICENSE.txt": "/learn-reactjs/static/js/2.0089eaa3.chunk.js.LICENSE.txt"
+    "main.css": "/learn-reactjs/exercise1/static/css/main.d861829d.chunk.css",
+    "main.js": "/learn-reactjs/exercise1/static/js/main.edddf723.chunk.js",
+    "main.js.map": "/learn-reactjs/exercise1/static/js/main.edddf723.chunk.js.map",
+    "runtime-main.js": "/learn-reactjs/exercise1/static/js/runtime-main.4900b207.js",
+    "runtime-main.js.map": "/learn-reactjs/exercise1/static/js/runtime-main.4900b207.js.map",
+    "static/js/2.0089eaa3.chunk.js": "/learn-reactjs/exercise1/static/js/2.0089eaa3.chunk.js",
+    "static/js/2.0089eaa3.chunk.js.map": "/learn-reactjs/exercise1/static/js/2.0089eaa3.chunk.js.map",
+    "index.html": "/learn-reactjs/exercise1/index.html",
+    "precache-manifest.896235adfcb0aa78a5344346fdf12413.js": "/learn-reactjs/exercise1/precache-manifest.896235adfcb0aa78a5344346fdf12413.js",
+    "service-worker.js": "/learn-reactjs/exercise1/service-worker.js",
+    "static/css/main.d861829d.chunk.css.map": "/learn-reactjs/exercise1/static/css/main.d861829d.chunk.css.map",
+    "static/js/2.0089eaa3.chunk.js.LICENSE.txt": "/learn-reactjs/exercise1/static/js/2.0089eaa3.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.1d85b03b.js",
+    "static/js/runtime-main.4900b207.js",
     "static/js/2.0089eaa3.chunk.js",
     "static/css/main.d861829d.chunk.css",
-    "static/js/main.2e364d28.chunk.js"
+    "static/js/main.edddf723.chunk.js"
   ]
 }
