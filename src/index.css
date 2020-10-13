@@ -23,3 +23,16 @@ code {
   height: 600px;
   border-top: none;
 }
+
+.body-info {
+  border-right: 1px solid;
+}
+
+.form-detail {
+  min-height: 190px;
+}
+
+form {
+  padding-bottom: 20px;
+}
+
